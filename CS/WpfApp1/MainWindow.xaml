@@ -20,7 +20,7 @@
                  PreviewMouseRightButtonUp="TextBox_PreviewMouseRightButtonUp" 
                  Margin="10,30,10,10" IsEnabled="True">
             <TextBox.ContextMenu>
-                <ContextMenu ItemsSource="{Binding Path=MenuItems}" />
+                <ContextMenu ItemsSource="{Binding Path=MenuItems}"/>
             </TextBox.ContextMenu>
             <dxmvvm:Interaction.Behaviors>
                 <dxspch:DXSpellChecker Culture="en-US" CheckAsYouType="True" />
@@ -30,6 +30,10 @@
                      x:Name="richTextBox" 
                      PreviewMouseRightButtonUp="RichTextBox_PreviewMouseRightButtonUp" 
                      Margin="10,34,10,0">
+            <RichTextBox.ContextMenu>
+                <ContextMenu ItemsSource="{Binding Path=MenuItems}"/>
+            </RichTextBox.ContextMenu>
+
             <dxmvvm:Interaction.Behaviors>
                 <dxspch:DXSpellChecker Culture="en-US" CheckAsYouType="True"/>
             </dxmvvm:Interaction.Behaviors>
