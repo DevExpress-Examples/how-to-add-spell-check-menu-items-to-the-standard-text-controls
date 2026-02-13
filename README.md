@@ -17,7 +17,7 @@ This code example shows how to add SpellChecker menu items to standard editors (
 
 * [How to: Add Spell Check Items to the Standard Text Controls' Context Menu](https://docs.devexpress.com/WPF/400620/controls-and-libraries/spell-checker/examples/how-to-add-spell-check-menu-items-to-the-standard-text-controls)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-add-spell-check-menu-items-to-the-standard-text-controls&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-add-spell-check-menu-items-to-the-standard-text-controls&~~~was_helpful=no)
 
